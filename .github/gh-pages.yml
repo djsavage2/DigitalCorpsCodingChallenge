@@ -1,4 +1,4 @@
-name: DigitalCorpsCodingChallenge gh-pages CI
+name: DigitalCorpsCodingChallengeCI
 
 on:
   push:
